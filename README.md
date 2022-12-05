@@ -33,19 +33,40 @@ MSX PS/2 Mouse converter
 - ピンヘッダ x2
 - D-SUB 9ピンコントローラ用ケーブル x1
 - ケース (オプション) 上下組 x1
+  ※お届けする商品は画像のものと異なる場合があります
+
+  ![parts](https://user-images.githubusercontent.com/102343209/205546597-d44bfb49-fa0e-4165-a02f-bfb4579cec4f.JPG)
 
 ## 組立方法
 - D-SUB 9ピンコントローラ用ケーブルの先端を剥き予備ハンダしておきます
+
+  ![cable](https://user-images.githubusercontent.com/102343209/205546666-397d7a23-14c2-4252-88ee-3d656c710edc.JPG)
+
 - 変換基板のシルクに書かれた色に合わせて9本のケーブルをハンダ付けします
+
+![1st step](https://user-images.githubusercontent.com/102343209/205546684-318f367e-b6fe-4d5a-b3e4-3a6ba4c40f83.JPG)
+
 - 部品の足などを使用してケーブルの抜け止めをハンダ付けします（キットには含まれません）
   - シルクの線を目安に黒い被膜がマイコン基板に干渉しないようにします
+
+![2nd step](https://user-images.githubusercontent.com/102343209/205546717-61734072-591b-4666-b804-02b6615c139b.JPG)
+
 - ミニDINコネクタとマイコン基板を取り付けます
-  - 裏面に飛び出したピンヘッダやコネクタの足はできるだけ短くカットします
+
+![3rd step](https://user-images.githubusercontent.com/102343209/205546774-c15c048b-efa1-4cba-a366-791440be34b2.JPG)
+
+- 裏面に飛び出したピンヘッダやコネクタの足はできるだけ短くカットします
   - ケースに入れない場合は絶縁テープなどを貼りショートしないようにします
+
+![4th step](https://user-images.githubusercontent.com/102343209/205546794-ef5e0fdd-d42a-489d-af73-e1b310652ef6.JPG)
+
 - ケースに入れます
 
 ## 注意事項
-- 先にマウスをマウス変換器に接続してからMSXへ接続してください
-- MSX接続中にマウスを変換器から抜き差ししないでください、接続が切れてしまいます
-  - 変換器自体をMSXから抜き差しし直すことで復帰します
+- 先にマウスを変換器に接続してからMSXへ接続してください
+- MSX接続中にマウスを抜き挿ししないでください、接続が切れてしまいます
+  - 変換器自体をMSXに挿し直すことで復帰します
 
+## ケースのプリント用データ
+
+https://github.com/Retro-Do-MSX/MsxPs2MouseConverter/blob/9a62aeebc9353688a7a67238b351070e19405555/Models/MSXPs2MouseConverterCase.stl
