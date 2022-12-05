@@ -8,6 +8,8 @@ MSX PS/2 Mouse converter
 - ケースは購入可能です、3Dプリンター用モデルも無料提供しています
 - サポートはありません
 
+![converter1](https://user-images.githubusercontent.com/102343209/205643273-2f765905-05a0-4b39-850b-36ef840f94fa.JPG)
+
 ## 動作
 - 本機はMSXでよく使用されるであろう下記のモードに対応しています
   1. マウス (MSX互換モード)　　左クリック＋電源オン
@@ -36,6 +38,7 @@ MSX PS/2 Mouse converter
   ※お届けする商品は画像のものと異なる場合があります
 
   ![parts](https://user-images.githubusercontent.com/102343209/205546597-d44bfb49-fa0e-4165-a02f-bfb4579cec4f.JPG)
+  ![case](https://user-images.githubusercontent.com/102343209/205643322-3df91690-9fbb-4a0e-92fd-873f9b03fb1b.JPG) 
 
 ## 組立方法
 - D-SUB 9ピンコントローラ用ケーブルの先端を剥き予備ハンダしておきます
@@ -61,6 +64,8 @@ MSX PS/2 Mouse converter
 ![4th step](https://user-images.githubusercontent.com/102343209/205546794-ef5e0fdd-d42a-489d-af73-e1b310652ef6.JPG)
 
 - ケースに入れます
+
+![converter2](https://user-images.githubusercontent.com/102343209/205643459-5cd6bada-82fb-43eb-bec8-753ca8434380.JPG)
 
 ## 注意事項
 - 先にマウスを変換器に接続してからMSXへ接続してください
